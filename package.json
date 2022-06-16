@@ -1,0 +1,22 @@
+{
+  "name": "project_move_db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tayrizla/Project_Movie_DB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tayrizla/Project_Movie_DB/issues"
+  },
+  "homepage": "https://github.com/Tayrizla/Project_Movie_DB#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
